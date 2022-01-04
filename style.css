@@ -1,0 +1,40 @@
+.fnbuttons{
+    display: flex;
+    justify-content: space-around;
+    border-radius:0px;
+    background-color: rgb(122, 122, 187);
+    padding-top: 30px;
+    padding-bottom:30px ;
+}
+button{
+    background-color: rgb(238, 204, 55);
+}
+
+.main_block{
+    display: flex;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(150, 143, 143); 
+}
+ #parentBox{
+     width: 600px;
+     height: 600px;
+     background-color: white;
+ }
+ h1{
+     text-align: center;
+     background-color: wheat;
+ }
+
+ .row {
+     display: flex;      
+ }
+ 
+ .box {
+     display: flex;
+     border: rgb(255, 255, 255) 1px solid;
+     box-shadow: 0px 0px 61px 0px rgba(13, 14, 13, 0.1);
+ }
